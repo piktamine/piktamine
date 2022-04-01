@@ -1,6 +1,4 @@
- <h1 align="center">✋🏽 Hey it's Piktamine 😃</h1>
-
-<img alt="portrait" src="https://kinsta.com/es/wp-content/uploads/sites/8/2021/08/laravel-9.jpeg" />
+<img alt="portrait" src="banner.png" />
 
 ##
 <h3 align="center">Things I code with:</h3>
@@ -23,12 +21,8 @@
 
 #
 
-<p align="center">
-  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="100"/>
-  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="120"/>
-  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="150"/>
-  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="120"/>
-  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="100"/>
+<p align="right">
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="80"/>
 </p>
 <!--
 **piktamine/piktamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
