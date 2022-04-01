@@ -1,4 +1,4 @@
- <h1 align="center">✋🏽 Hi i'm Piktamine 😃</h1>
+ <h1 align="center">✋🏽 Hey it's Piktamine 😃</h1>
 
 <img alt="portrait" src="https://kinsta.com/es/wp-content/uploads/sites/8/2021/08/laravel-9.jpeg" />
 
@@ -19,6 +19,16 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=green" />
+</p>
+
+#
+
+<p align="center">
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="100"/>
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="120"/>
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="150"/>
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="120"/>
+  <img alt="uaslp" src="https://www.latam-legal.com/wp-content/uploads/2021/11/ImgRS.jpg" width="100"/>
 </p>
 <!--
 **piktamine/piktamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
