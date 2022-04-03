@@ -1,6 +1,7 @@
 <img alt="portrait" src="banner.png" />
 
-##
+#
+
 <h3 align="center">Things I code with:</h3>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,6 +19,8 @@
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=green" />
 </p>
+
+# 
 <!--
 **piktamine/piktamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
