@@ -12,7 +12,7 @@
   <img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Combine" src="https://img.shields.io/badge/-Combine-00B2A5?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
   <img alt="Alpine.js" src="https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
