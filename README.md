@@ -8,8 +8,8 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-3955A3?style=for-the-badge&logo=swift&logoColor=white" />
-  <img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0655d3?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective%5FC-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Combine" src="https://img.shields.io/badge/-Combine-00B2A5?style=for-the-badge&logo=swift&logoColor=white" />
   
   <img alt="Vapor" src="https://img.shields.io/badge/-Vapor-0D0D0D?style=for-the-badge&logo=vapor&logoColor=white" />
